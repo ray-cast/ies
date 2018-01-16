@@ -1,9 +1,9 @@
 # IES Light Profiles
------------
+
 ![IES.jpg](IES.jpg)
 
 # To use
-----------
+
 ```hlsl
 float3 ComputeIESLightProfile1D(float3 L, float3 LightDirection)
 {
